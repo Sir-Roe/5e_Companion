@@ -22,3 +22,13 @@ CREATE TABLE IF NOT EXISTS monsters(
 	descrip VARCHAR(750)
 );
 
+
+CREATE TABLE IF NOT EXISTS monster_resists(
+	monster_id  VARCHAR(50), 
+	type VARCHAR(50),
+	value VARCHAR(50),
+	FOREIGN KEY(monster_id) REFERENCES monsters (monster_id)
+);
+
+
+

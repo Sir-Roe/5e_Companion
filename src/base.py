@@ -1,9 +1,7 @@
 import requests
 import numpy as np
 import pandas as pd
-from dotenv import load_dotenv
-from os import getenv
-load_dotenv()
+
 
 class Base:
     """
@@ -90,28 +88,27 @@ class Base:
         resistances=[]
         #df headers
         h=['monster_id','type','value']
-
-
-        def tabulate_data(id,mylist,cat):
-            if type(mylist[0])==dict:
-                for i in mylist:
-                    resistances.append([id,cat,i['name']])
-                else:
-                    for i in mylist:
-                        resistances.append([id,cat,i])
-                        
-                
-
+        #iterate through the resist columns and strip the values
+        #some values are dictionaries, some values are lists
+        #I originally wrote this to be very fast with multiple functions to avoid
+        #double for loops but since i was only running this like, ONCE.
+        #I opted for my original more readable solution as I having trouble 
+        #remembering what the point all of the functions were for to begin with.
         for imm in self.df_mon_mit.values:
             for j in range(1,len(self.df_mon_mit.keys())):
                 if len(imm[j])>0:
+                    if type(imm[j][0])==dict:
+                        for i in imm[j]:
+                            resistances.append([imm[0],self.df_mon_mit.columns[j],i['name']])
+                    else:
+                        for i in imm[j]:
+                            resistances.append([imm[0],self.df_mon_mit.columns[j],i])
                     
-                    tabulate_data(imm[0],imm[j],self.df_mon_mit.columns[j])
 
 
         self.df_resist = pd.DataFrame(resistances,columns=h)
         self.df_resist.head()
-        self.df_resist.to_csv(r'C:\Users\Logan\Documents\GitHub\5e_Companion\src\data\monster_resists.csv',index=False)
+        self.df_resist.to_csv('src/data/monster_resists.csv',index=False)
 
     def get_monster_characteristics(self):
         features=[]
@@ -279,7 +276,7 @@ class Base:
             self.df_actions.loc[(self.df_actions['monster_id'] == i[0]) & (self.df_actions['action_name'] == i[1]), 'multi_attack_descrip'] = i[3]
 
         #create our data csv    
-        self.df_actions.to_csv(r'C:\Users\Logan\Documents\GitHub\5e_Companion\src\data\monster_actions.csv',index=False)
+        self.df_actions.to_csv('src/data/monster_actions.csv',index=False)
                 
         self.df_actions.head()
 
