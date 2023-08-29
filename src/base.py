@@ -16,6 +16,8 @@ class Base:
         self.base_url = "https://www.dnd5eapi.co"
         self.mystr= 'https://www.dnd5eapi.co/api/monsters/'
         self.response= requests.get(self.mystr).json()['results']
+
+        #append all data found at url into list
         monsters=[]
         #iterate through the urls from the previous response
         for i in self.response:
