@@ -64,7 +64,9 @@ if __name__ == '__main__':
     p = PGSQL()
     #p.create_tables(r'C:\Users\Logan\Documents\GitHub\5e_Companion\src\create_tables.sql')
     p.upsert(r'src/data/monsters.csv','monsters')
-
+    p.upsert(r'src/data/monster_actions.csv','monster_actions')
+    p.upsert(r'src/data/monster_resists.csv','monster_resists')
+    p.upsert(r'src/data/monster_characteristics.csv','monster_characteristics')
 
 '''
 db_url='postgresql://qxqdekzb:PhAQn8YHzjFbSBOz9oRdohA5XXF1pYLB@batyr.db.elephantsql.com/qxqdekzb'
