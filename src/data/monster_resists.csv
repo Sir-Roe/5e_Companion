@@ -1,0 +1,681 @@
+monster_id,type,value
+adult-green-dragon,condition_immunities,Poisoned
+adult-green-dragon,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+air-elemental,condition_immunities,Exhaustion
+air-elemental,condition_immunities,Grappled
+air-elemental,condition_immunities,Paralyzed
+air-elemental,condition_immunities,Petrified
+air-elemental,condition_immunities,Poisoned
+air-elemental,condition_immunities,Prone
+air-elemental,condition_immunities,Restrained
+air-elemental,condition_immunities,Unconscious
+air-elemental,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+air-elemental,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+air-elemental,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+air-elemental,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+air-elemental,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+air-elemental,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+air-elemental,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+air-elemental,condition_immunities,"{'index': 'unconscious', 'name': 'Unconscious', 'url': '/api/conditions/unconscious'}"
+ancient-green-dragon,condition_immunities,Poisoned
+ancient-green-dragon,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+androsphinx,condition_immunities,Charmed
+androsphinx,condition_immunities,Frightened
+androsphinx,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+androsphinx,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+animated-armor,condition_immunities,Blinded
+animated-armor,condition_immunities,Charmed
+animated-armor,condition_immunities,Deafened
+animated-armor,condition_immunities,Exhaustion
+animated-armor,condition_immunities,Frightened
+animated-armor,condition_immunities,Paralyzed
+animated-armor,condition_immunities,Petrified
+animated-armor,condition_immunities,Poisoned
+animated-armor,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+animated-armor,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+animated-armor,condition_immunities,"{'index': 'deafened', 'name': 'Deafened', 'url': '/api/conditions/deafened'}"
+animated-armor,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+animated-armor,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+animated-armor,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+animated-armor,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+animated-armor,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+azer,condition_immunities,Poisoned
+azer,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+balor,condition_immunities,Poisoned
+balor,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+barbed-devil,condition_immunities,Poisoned
+barbed-devil,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+bearded-devil,condition_immunities,Poisoned
+bearded-devil,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+black-pudding,condition_immunities,Blinded
+black-pudding,condition_immunities,Charmed
+black-pudding,condition_immunities,Blinded
+black-pudding,condition_immunities,Exhaustion
+black-pudding,condition_immunities,Frightened
+black-pudding,condition_immunities,Prone
+black-pudding,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+black-pudding,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+black-pudding,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+black-pudding,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+black-pudding,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+black-pudding,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+bone-devil,condition_immunities,Poisoned
+bone-devil,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+chain-devil,condition_immunities,Poisoned
+chain-devil,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+chuul,condition_immunities,Poisoned
+chuul,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+clay-golem,condition_immunities,Charmed
+clay-golem,condition_immunities,Exhaustion
+clay-golem,condition_immunities,Frightened
+clay-golem,condition_immunities,Paralyzed
+clay-golem,condition_immunities,Petrified
+clay-golem,condition_immunities,Poisoned
+clay-golem,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+clay-golem,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+clay-golem,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+clay-golem,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+clay-golem,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+clay-golem,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+deva,condition_immunities,Charmed
+deva,condition_immunities,Exhaustion
+deva,condition_immunities,Frightened
+deva,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+deva,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+deva,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+doppelganger,condition_immunities,Charmed
+doppelganger,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+dretch,condition_immunities,Poisoned
+dretch,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+dust-mephit,condition_immunities,Poisoned
+dust-mephit,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+earth-elemental,condition_immunities,Exhaustion
+earth-elemental,condition_immunities,Paralyzed
+earth-elemental,condition_immunities,Petrified
+earth-elemental,condition_immunities,Poisoned
+earth-elemental,condition_immunities,Unconscious
+earth-elemental,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+earth-elemental,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+earth-elemental,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+earth-elemental,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+earth-elemental,condition_immunities,"{'index': 'unconscious', 'name': 'Unconscious', 'url': '/api/conditions/unconscious'}"
+erinyes,condition_immunities,Poisoned
+erinyes,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+fire-elemental,condition_immunities,Exhaustion
+fire-elemental,condition_immunities,Grappled
+fire-elemental,condition_immunities,Paralyzed
+fire-elemental,condition_immunities,Petrified
+fire-elemental,condition_immunities,Poisoned
+fire-elemental,condition_immunities,Prone
+fire-elemental,condition_immunities,Restrained
+fire-elemental,condition_immunities,Unconscious
+fire-elemental,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+fire-elemental,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+fire-elemental,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+fire-elemental,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+fire-elemental,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+fire-elemental,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+fire-elemental,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+fire-elemental,condition_immunities,"{'index': 'unconscious', 'name': 'Unconscious', 'url': '/api/conditions/unconscious'}"
+flesh-golem,condition_immunities,Charmed
+flesh-golem,condition_immunities,Exhaustion
+flesh-golem,condition_immunities,Frightened
+flesh-golem,condition_immunities,Paralyzed
+flesh-golem,condition_immunities,Petrified
+flesh-golem,condition_immunities,Poisoned
+flesh-golem,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+flesh-golem,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+flesh-golem,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+flesh-golem,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+flesh-golem,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+flesh-golem,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+flying-sword,condition_immunities,Blinded
+flying-sword,condition_immunities,Charmed
+flying-sword,condition_immunities,Blinded
+flying-sword,condition_immunities,Frightened
+flying-sword,condition_immunities,Paralyzed
+flying-sword,condition_immunities,Petrified
+flying-sword,condition_immunities,Poisoned
+flying-sword,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+flying-sword,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+flying-sword,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+flying-sword,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+flying-sword,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+flying-sword,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+flying-sword,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+gargoyle,condition_immunities,Exhaustion
+gargoyle,condition_immunities,Petrified
+gargoyle,condition_immunities,Poisoned
+gargoyle,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+gargoyle,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+gargoyle,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+gelatinous-cube,condition_immunities,Blinded
+gelatinous-cube,condition_immunities,Charmed
+gelatinous-cube,condition_immunities,Deafened
+gelatinous-cube,condition_immunities,Exhaustion
+gelatinous-cube,condition_immunities,Frightened
+gelatinous-cube,condition_immunities,Prone
+gelatinous-cube,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+gelatinous-cube,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+gelatinous-cube,condition_immunities,"{'index': 'deafened', 'name': 'Deafened', 'url': '/api/conditions/deafened'}"
+gelatinous-cube,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+gelatinous-cube,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+gelatinous-cube,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+ghast,condition_immunities,Poisoned
+ghast,condition_immunities,Charmed
+ghast,condition_immunities,Exhaustion
+ghast,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+ghast,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+ghast,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+ghost,condition_immunities,Charmed
+ghost,condition_immunities,Exhaustion
+ghost,condition_immunities,Frightened
+ghost,condition_immunities,Grappled
+ghost,condition_immunities,Paralyzed
+ghost,condition_immunities,Petrified
+ghost,condition_immunities,Poisoned
+ghost,condition_immunities,Prone
+ghost,condition_immunities,Restrained
+ghost,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+ghost,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+ghost,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+ghost,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+ghost,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+ghost,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+ghost,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+ghost,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+ghost,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+ghoul,condition_immunities,Poisoned
+ghoul,condition_immunities,Charmed
+ghoul,condition_immunities,Exhaustion
+ghoul,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+ghoul,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+ghoul,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+gibbering-mouther,condition_immunities,Prone
+gibbering-mouther,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+glabrezu,condition_immunities,Poisoned
+glabrezu,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+gorgon,condition_immunities,Petrified
+gorgon,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+gray-ooze,condition_immunities,Blinded
+gray-ooze,condition_immunities,Charmed
+gray-ooze,condition_immunities,Deafened
+gray-ooze,condition_immunities,Exhaustion
+gray-ooze,condition_immunities,Frightened
+gray-ooze,condition_immunities,Prone
+gray-ooze,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+gray-ooze,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+gray-ooze,condition_immunities,"{'index': 'deafened', 'name': 'Deafened', 'url': '/api/conditions/deafened'}"
+gray-ooze,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+gray-ooze,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+gray-ooze,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+green-dragon-wyrmling,condition_immunities,Poisoned
+green-dragon-wyrmling,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+grimlock,condition_immunities,Blinded
+grimlock,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+guardian-naga,condition_immunities,Charmed
+guardian-naga,condition_immunities,Poisoned
+guardian-naga,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+guardian-naga,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+gynosphinx,condition_immunities,Charmed
+gynosphinx,condition_immunities,Frightened
+gynosphinx,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+gynosphinx,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+hezrou,condition_immunities,Poisoned
+hezrou,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+homunculus,condition_immunities,Charmed
+homunculus,condition_immunities,Poisoned
+homunculus,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+homunculus,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+horned-devil,condition_immunities,Poisoned
+horned-devil,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+ice-devil,condition_immunities,Poisoned
+ice-devil,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+ice-mephit,condition_immunities,Poisoned
+ice-mephit,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+imp,condition_immunities,Poisoned
+imp,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+invisible-stalker,condition_immunities,Exhaustion
+invisible-stalker,condition_immunities,Grappled
+invisible-stalker,condition_immunities,Paralyzed
+invisible-stalker,condition_immunities,Petrified
+invisible-stalker,condition_immunities,Poisoned
+invisible-stalker,condition_immunities,Prone
+invisible-stalker,condition_immunities,Restrained
+invisible-stalker,condition_immunities,Unconscious
+invisible-stalker,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+invisible-stalker,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+invisible-stalker,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+invisible-stalker,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+invisible-stalker,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+invisible-stalker,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+invisible-stalker,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+invisible-stalker,condition_immunities,"{'index': 'unconscious', 'name': 'Unconscious', 'url': '/api/conditions/unconscious'}"
+iron-golem,condition_immunities,Charmed
+iron-golem,condition_immunities,Exhaustion
+iron-golem,condition_immunities,Frightened
+iron-golem,condition_immunities,Paralyzed
+iron-golem,condition_immunities,Petrified
+iron-golem,condition_immunities,Poisoned
+iron-golem,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+iron-golem,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+iron-golem,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+iron-golem,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+iron-golem,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+iron-golem,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+kraken,condition_immunities,Frightened
+kraken,condition_immunities,Paralyzed
+kraken,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+kraken,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+lemure,condition_immunities,Charmed
+lemure,condition_immunities,Frightened
+lemure,condition_immunities,Poisoned
+lemure,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+lemure,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+lemure,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+lich,condition_immunities,Charmed
+lich,condition_immunities,Exhaustion
+lich,condition_immunities,Frightened
+lich,condition_immunities,Paralyzed
+lich,condition_immunities,Poisoned
+lich,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+lich,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+lich,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+lich,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+lich,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+magma-mephit,condition_immunities,Poisoned
+magma-mephit,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+marilith,condition_immunities,Poisoned
+marilith,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+mimic,condition_immunities,Prone
+mimic,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+minotaur-skeleton,condition_immunities,Exhaustion
+minotaur-skeleton,condition_immunities,Poisoned
+minotaur-skeleton,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+minotaur-skeleton,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+mummy,condition_immunities,Charmed
+mummy,condition_immunities,Exhaustion
+mummy,condition_immunities,Frightened
+mummy,condition_immunities,Paralyzed
+mummy,condition_immunities,Poisoned
+mummy,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+mummy,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+mummy,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+mummy,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+mummy,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+mummy-lord,condition_immunities,Charmed
+mummy-lord,condition_immunities,Exhaustion
+mummy-lord,condition_immunities,Frightened
+mummy-lord,condition_immunities,Paralyzed
+mummy-lord,condition_immunities,Poisoned
+mummy-lord,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+mummy-lord,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+mummy-lord,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+mummy-lord,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+mummy-lord,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+nalfeshnee,condition_immunities,Poisoned
+nalfeshnee,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+night-hag,condition_immunities,Charmed
+night-hag,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+ochre-jelly,condition_immunities,Blinded
+ochre-jelly,condition_immunities,Charmed
+ochre-jelly,condition_immunities,Blinded
+ochre-jelly,condition_immunities,Exhaustion
+ochre-jelly,condition_immunities,Frightened
+ochre-jelly,condition_immunities,Prone
+ochre-jelly,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+ochre-jelly,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+ochre-jelly,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+ochre-jelly,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+ochre-jelly,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+ochre-jelly,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+ogre-zombie,condition_immunities,Poisoned
+ogre-zombie,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+pit-fiend,condition_immunities,Poisoned
+pit-fiend,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+planetar,condition_immunities,Charmed
+planetar,condition_immunities,Exhaustion
+planetar,condition_immunities,Frightened
+planetar,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+planetar,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+planetar,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+quasit,condition_immunities,Poisoned
+quasit,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+rug-of-smothering,condition_immunities,Blinded
+rug-of-smothering,condition_immunities,Charmed
+rug-of-smothering,condition_immunities,Blinded
+rug-of-smothering,condition_immunities,Frightened
+rug-of-smothering,condition_immunities,Paralyzed
+rug-of-smothering,condition_immunities,Petrified
+rug-of-smothering,condition_immunities,Poisoned
+rug-of-smothering,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+rug-of-smothering,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+rug-of-smothering,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+rug-of-smothering,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+rug-of-smothering,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+rug-of-smothering,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+rug-of-smothering,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+shadow,condition_immunities,Exhaustion
+shadow,condition_immunities,Frightened
+shadow,condition_immunities,Grappled
+shadow,condition_immunities,Paralyzed
+shadow,condition_immunities,Petrified
+shadow,condition_immunities,Poisoned
+shadow,condition_immunities,Prone
+shadow,condition_immunities,Restrained
+shadow,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+shadow,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+shadow,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+shadow,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+shadow,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+shadow,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+shadow,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+shadow,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+shambling-mound,condition_immunities,Blinded
+shambling-mound,condition_immunities,Blinded
+shambling-mound,condition_immunities,Exhaustion
+shambling-mound,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+shambling-mound,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+shambling-mound,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+shield-guardian,condition_immunities,Charmed
+shield-guardian,condition_immunities,Exhaustion
+shield-guardian,condition_immunities,Frightened
+shield-guardian,condition_immunities,Paralyzed
+shield-guardian,condition_immunities,Poisoned
+shield-guardian,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+shield-guardian,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+shield-guardian,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+shield-guardian,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+shield-guardian,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+shrieker,condition_immunities,Blinded
+shrieker,condition_immunities,Blinded
+shrieker,condition_immunities,Frightened
+shrieker,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+shrieker,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+shrieker,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+skeleton,condition_immunities,Poisoned
+skeleton,condition_immunities,Exhaustion
+skeleton,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+skeleton,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+solar,condition_immunities,Charmed
+solar,condition_immunities,Exhaustion
+solar,condition_immunities,Frightened
+solar,condition_immunities,Poisoned
+solar,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+solar,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+solar,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+solar,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+specter,condition_immunities,Charmed
+specter,condition_immunities,Exhaustion
+specter,condition_immunities,Grappled
+specter,condition_immunities,Paralyzed
+specter,condition_immunities,Petrified
+specter,condition_immunities,Poisoned
+specter,condition_immunities,Prone
+specter,condition_immunities,Restrained
+specter,condition_immunities,Unconscious
+specter,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+specter,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+specter,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+specter,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+specter,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+specter,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+specter,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+specter,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+specter,condition_immunities,"{'index': 'unconscious', 'name': 'Unconscious', 'url': '/api/conditions/unconscious'}"
+spirit-naga,condition_immunities,Charmed
+spirit-naga,condition_immunities,Poisoned
+spirit-naga,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+spirit-naga,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+steam-mephit,condition_immunities,Poisoned
+steam-mephit,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+stone-golem,condition_immunities,Charmed
+stone-golem,condition_immunities,Exhaustion
+stone-golem,condition_immunities,Frightened
+stone-golem,condition_immunities,Paralyzed
+stone-golem,condition_immunities,Petrified
+stone-golem,condition_immunities,Poisoned
+stone-golem,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+stone-golem,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+stone-golem,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+stone-golem,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+stone-golem,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+stone-golem,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+swarm-of-bats,condition_immunities,Charmed
+swarm-of-bats,condition_immunities,Frightened
+swarm-of-bats,condition_immunities,Grappled
+swarm-of-bats,condition_immunities,Paralyzed
+swarm-of-bats,condition_immunities,Petrified
+swarm-of-bats,condition_immunities,Prone
+swarm-of-bats,condition_immunities,Restrained
+swarm-of-bats,condition_immunities,Stunned
+swarm-of-bats,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+swarm-of-bats,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+swarm-of-bats,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+swarm-of-bats,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+swarm-of-bats,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+swarm-of-bats,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+swarm-of-bats,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+swarm-of-bats,condition_immunities,"{'index': 'stunned', 'name': 'Stunned', 'url': '/api/conditions/stunned'}"
+swarm-of-beetles,condition_immunities,Charmed
+swarm-of-beetles,condition_immunities,Frightened
+swarm-of-beetles,condition_immunities,Grappled
+swarm-of-beetles,condition_immunities,Paralyzed
+swarm-of-beetles,condition_immunities,Petrified
+swarm-of-beetles,condition_immunities,Prone
+swarm-of-beetles,condition_immunities,Restrained
+swarm-of-beetles,condition_immunities,Stunned
+swarm-of-beetles,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+swarm-of-beetles,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+swarm-of-beetles,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+swarm-of-beetles,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+swarm-of-beetles,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+swarm-of-beetles,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+swarm-of-beetles,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+swarm-of-beetles,condition_immunities,"{'index': 'stunned', 'name': 'Stunned', 'url': '/api/conditions/stunned'}"
+swarm-of-centipedes,condition_immunities,Charmed
+swarm-of-centipedes,condition_immunities,Frightened
+swarm-of-centipedes,condition_immunities,Grappled
+swarm-of-centipedes,condition_immunities,Paralyzed
+swarm-of-centipedes,condition_immunities,Petrified
+swarm-of-centipedes,condition_immunities,Prone
+swarm-of-centipedes,condition_immunities,Restrained
+swarm-of-centipedes,condition_immunities,Stunned
+swarm-of-centipedes,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+swarm-of-centipedes,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+swarm-of-centipedes,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+swarm-of-centipedes,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+swarm-of-centipedes,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+swarm-of-centipedes,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+swarm-of-centipedes,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+swarm-of-centipedes,condition_immunities,"{'index': 'stunned', 'name': 'Stunned', 'url': '/api/conditions/stunned'}"
+swarm-of-insects,condition_immunities,Charmed
+swarm-of-insects,condition_immunities,Frightened
+swarm-of-insects,condition_immunities,Grappled
+swarm-of-insects,condition_immunities,Paralyzed
+swarm-of-insects,condition_immunities,Petrified
+swarm-of-insects,condition_immunities,Prone
+swarm-of-insects,condition_immunities,Restrained
+swarm-of-insects,condition_immunities,Stunned
+swarm-of-insects,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+swarm-of-insects,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+swarm-of-insects,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+swarm-of-insects,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+swarm-of-insects,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+swarm-of-insects,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+swarm-of-insects,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+swarm-of-insects,condition_immunities,"{'index': 'stunned', 'name': 'Stunned', 'url': '/api/conditions/stunned'}"
+swarm-of-poisonous-snakes,condition_immunities,Charmed
+swarm-of-poisonous-snakes,condition_immunities,Frightened
+swarm-of-poisonous-snakes,condition_immunities,Grappled
+swarm-of-poisonous-snakes,condition_immunities,Paralyzed
+swarm-of-poisonous-snakes,condition_immunities,Petrified
+swarm-of-poisonous-snakes,condition_immunities,Prone
+swarm-of-poisonous-snakes,condition_immunities,Restrained
+swarm-of-poisonous-snakes,condition_immunities,Stunned
+swarm-of-poisonous-snakes,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+swarm-of-poisonous-snakes,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+swarm-of-poisonous-snakes,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+swarm-of-poisonous-snakes,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+swarm-of-poisonous-snakes,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+swarm-of-poisonous-snakes,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+swarm-of-poisonous-snakes,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+swarm-of-poisonous-snakes,condition_immunities,"{'index': 'stunned', 'name': 'Stunned', 'url': '/api/conditions/stunned'}"
+swarm-of-quippers,condition_immunities,Charmed
+swarm-of-quippers,condition_immunities,Frightened
+swarm-of-quippers,condition_immunities,Grappled
+swarm-of-quippers,condition_immunities,Paralyzed
+swarm-of-quippers,condition_immunities,Petrified
+swarm-of-quippers,condition_immunities,Prone
+swarm-of-quippers,condition_immunities,Restrained
+swarm-of-quippers,condition_immunities,Stunned
+swarm-of-quippers,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+swarm-of-quippers,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+swarm-of-quippers,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+swarm-of-quippers,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+swarm-of-quippers,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+swarm-of-quippers,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+swarm-of-quippers,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+swarm-of-quippers,condition_immunities,"{'index': 'stunned', 'name': 'Stunned', 'url': '/api/conditions/stunned'}"
+swarm-of-rats,condition_immunities,Charmed
+swarm-of-rats,condition_immunities,Frightened
+swarm-of-rats,condition_immunities,Grappled
+swarm-of-rats,condition_immunities,Paralyzed
+swarm-of-rats,condition_immunities,Petrified
+swarm-of-rats,condition_immunities,Prone
+swarm-of-rats,condition_immunities,Restrained
+swarm-of-rats,condition_immunities,Stunned
+swarm-of-rats,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+swarm-of-rats,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+swarm-of-rats,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+swarm-of-rats,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+swarm-of-rats,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+swarm-of-rats,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+swarm-of-rats,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+swarm-of-rats,condition_immunities,"{'index': 'stunned', 'name': 'Stunned', 'url': '/api/conditions/stunned'}"
+swarm-of-ravens,condition_immunities,Charmed
+swarm-of-ravens,condition_immunities,Frightened
+swarm-of-ravens,condition_immunities,Grappled
+swarm-of-ravens,condition_immunities,Paralyzed
+swarm-of-ravens,condition_immunities,Petrified
+swarm-of-ravens,condition_immunities,Prone
+swarm-of-ravens,condition_immunities,Restrained
+swarm-of-ravens,condition_immunities,Stunned
+swarm-of-ravens,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+swarm-of-ravens,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+swarm-of-ravens,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+swarm-of-ravens,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+swarm-of-ravens,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+swarm-of-ravens,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+swarm-of-ravens,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+swarm-of-ravens,condition_immunities,"{'index': 'stunned', 'name': 'Stunned', 'url': '/api/conditions/stunned'}"
+swarm-of-spiders,condition_immunities,Charmed
+swarm-of-spiders,condition_immunities,Frightened
+swarm-of-spiders,condition_immunities,Paralyzed
+swarm-of-spiders,condition_immunities,Petrified
+swarm-of-spiders,condition_immunities,Prone
+swarm-of-spiders,condition_immunities,Restrained
+swarm-of-spiders,condition_immunities,Stunned
+swarm-of-spiders,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+swarm-of-spiders,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+swarm-of-spiders,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+swarm-of-spiders,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+swarm-of-spiders,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+swarm-of-spiders,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+swarm-of-spiders,condition_immunities,"{'index': 'stunned', 'name': 'Stunned', 'url': '/api/conditions/stunned'}"
+swarm-of-wasps,condition_immunities,Charmed
+swarm-of-wasps,condition_immunities,Frightened
+swarm-of-wasps,condition_immunities,Grappled
+swarm-of-wasps,condition_immunities,Paralyzed
+swarm-of-wasps,condition_immunities,Petrified
+swarm-of-wasps,condition_immunities,Prone
+swarm-of-wasps,condition_immunities,Restrained
+swarm-of-wasps,condition_immunities,Stunned
+swarm-of-wasps,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+swarm-of-wasps,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+swarm-of-wasps,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+swarm-of-wasps,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+swarm-of-wasps,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+swarm-of-wasps,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+swarm-of-wasps,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+swarm-of-wasps,condition_immunities,"{'index': 'stunned', 'name': 'Stunned', 'url': '/api/conditions/stunned'}"
+tarrasque,condition_immunities,Charmed
+tarrasque,condition_immunities,Frightened
+tarrasque,condition_immunities,Paralyzed
+tarrasque,condition_immunities,Poisoned
+tarrasque,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+tarrasque,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+tarrasque,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+tarrasque,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+unicorn,condition_immunities,Charmed
+unicorn,condition_immunities,Paralyzed
+unicorn,condition_immunities,Poisoned
+unicorn,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+unicorn,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+unicorn,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+violet-fungus,condition_immunities,Blinded
+violet-fungus,condition_immunities,Blinded
+violet-fungus,condition_immunities,Frightened
+violet-fungus,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+violet-fungus,condition_immunities,"{'index': 'blinded', 'name': 'Blinded', 'url': '/api/conditions/blinded'}"
+violet-fungus,condition_immunities,"{'index': 'frightened', 'name': 'Frightened', 'url': '/api/conditions/frightened'}"
+vrock,condition_immunities,Poisoned
+vrock,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+warhorse-skeleton,condition_immunities,Exhaustion
+warhorse-skeleton,condition_immunities,Poisoned
+warhorse-skeleton,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+warhorse-skeleton,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+water-elemental,condition_immunities,Exhaustion
+water-elemental,condition_immunities,Grappled
+water-elemental,condition_immunities,Paralyzed
+water-elemental,condition_immunities,Petrified
+water-elemental,condition_immunities,Poisoned
+water-elemental,condition_immunities,Prone
+water-elemental,condition_immunities,Restrained
+water-elemental,condition_immunities,Unconscious
+water-elemental,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+water-elemental,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+water-elemental,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+water-elemental,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+water-elemental,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+water-elemental,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+water-elemental,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+water-elemental,condition_immunities,"{'index': 'unconscious', 'name': 'Unconscious', 'url': '/api/conditions/unconscious'}"
+wight,condition_immunities,Exhaustion
+wight,condition_immunities,Poisoned
+wight,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+wight,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+will-o-wisp,condition_immunities,Exhaustion
+will-o-wisp,condition_immunities,Grappled
+will-o-wisp,condition_immunities,Paralyzed
+will-o-wisp,condition_immunities,Poisoned
+will-o-wisp,condition_immunities,Prone
+will-o-wisp,condition_immunities,Restrained
+will-o-wisp,condition_immunities,Unconscious
+will-o-wisp,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+will-o-wisp,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+will-o-wisp,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+will-o-wisp,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+will-o-wisp,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+will-o-wisp,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+will-o-wisp,condition_immunities,"{'index': 'unconscious', 'name': 'Unconscious', 'url': '/api/conditions/unconscious'}"
+wraith,condition_immunities,Charmed
+wraith,condition_immunities,Exhaustion
+wraith,condition_immunities,Grappled
+wraith,condition_immunities,Paralyzed
+wraith,condition_immunities,Petrified
+wraith,condition_immunities,Poisoned
+wraith,condition_immunities,Prone
+wraith,condition_immunities,Restrained
+wraith,condition_immunities,"{'index': 'charmed', 'name': 'Charmed', 'url': '/api/conditions/charmed'}"
+wraith,condition_immunities,"{'index': 'exhaustion', 'name': 'Exhaustion', 'url': '/api/conditions/exhaustion'}"
+wraith,condition_immunities,"{'index': 'grappled', 'name': 'Grappled', 'url': '/api/conditions/grappled'}"
+wraith,condition_immunities,"{'index': 'paralyzed', 'name': 'Paralyzed', 'url': '/api/conditions/paralyzed'}"
+wraith,condition_immunities,"{'index': 'petrified', 'name': 'Petrified', 'url': '/api/conditions/petrified'}"
+wraith,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+wraith,condition_immunities,"{'index': 'prone', 'name': 'Prone', 'url': '/api/conditions/prone'}"
+wraith,condition_immunities,"{'index': 'restrained', 'name': 'Restrained', 'url': '/api/conditions/restrained'}"
+young-green-dragon,condition_immunities,Poisoned
+young-green-dragon,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"
+zombie,condition_immunities,Poisoned
+zombie,condition_immunities,"{'index': 'poisoned', 'name': 'Poisoned', 'url': '/api/conditions/poisoned'}"

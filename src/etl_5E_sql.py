@@ -1,3 +1,4 @@
+from sqlalchemy import create_engine
 from dotenv import load_dotenv
 from os import getenv
 import pandas as pd
@@ -16,7 +17,7 @@ class PGSQL:
         )
     __cur = __pg_con.cursor()
     #only used for the quick dump of the csvs's
-    __SQL_URL=getenv("SQ_URL")
+    SQL_URL=getenv("SQ_URL")
 
     def create_tables(self, sql_filepath: str):
         start = self.create_file(sql_filepath)
@@ -28,19 +29,16 @@ class PGSQL:
                 self.__pg_con.commit()
             except psycopg2.ProgrammingError as msg:
                 print(f'Command Skipped: {msg}')
-        
-    def insert_data(self, sql_filepath: str):
-        start = self.create_file(sql_filepath)
-        commands = start.split(';')
-        for command in commands:
-            try:
-                print(command)
-                self.__cur.execute(command)
-                self.__pg_con.commit()
-            except psycopg2.ProgrammingError as msg:
-                print(command)
+    
+    def upsert(self,csvpath,table):
+        print(self.SQL_URL)
+        #########build_temp_table to upsert from
+        try:
+            self.df = pd.read_csv(csvpath)
+            engine = create_engine(self.SQL_URL)
+            self.df.to_sql(table, con=engine, if_exists='replace', index=False, method='multi')
+        except psycopg2.ProgrammingError as msg:
                 print(f'Command Skipped: {msg}')
-
 
     def query_db(self, sql_filepath: str):
         start = self.create_file(sql_filepath)
@@ -65,5 +63,11 @@ class PGSQL:
 if __name__ == '__main__':
     p = PGSQL()
     #p.create_tables(r'C:\Users\Logan\Documents\GitHub\5e_Companion\src\create_tables.sql')
-    p.insert_csv(r'C:\Users\Logan\Documents\GitHub\5e_Companion\src\data\monsters.csv','monsters')
-    
+    p.upsert(r'src/data/monsters.csv','monsters')
+
+
+'''
+db_url='postgresql://qxqdekzb:PhAQn8YHzjFbSBOz9oRdohA5XXF1pYLB@batyr.db.elephantsql.com/qxqdekzb'
+engine = create_engine(db_url)
+mon_table_df.to_sql('monsters', con=engine, if_exists='replace', index=False, method='multi')
+'''
