@@ -15,7 +15,7 @@ class PGSQL:
         password=__password,
         host=__server
         )
-    __cur = __pg_con.cursor()
+    cur = __pg_con.cursor()
     #only used for the quick dump of the csvs's
     SQL_URL=getenv("SQ_URL")
 
@@ -25,7 +25,7 @@ class PGSQL:
         for table in tables:
             try:
                 print(table)
-                self.__cur.execute(table)
+                self.cur.execute(table)
                 self.__pg_con.commit()
             except psycopg2.ProgrammingError as msg:
                 print(f'Command Skipped: {msg}')
@@ -46,7 +46,7 @@ class PGSQL:
         for query in queries:
             try:
                 print(query)
-                self.__cur.execute(query)
+                self.cur.execute(query)
                 self.__pg_con.commit()
             except psycopg2.ProgrammingError as msg:
                 msg

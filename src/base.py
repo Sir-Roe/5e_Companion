@@ -160,7 +160,7 @@ class Base:
         self.df_characteristics= pd.DataFrame(features,columns=h)
 
         self.df_characteristics.head()
-        self.df_characteristics.to_csv(r'C:\Users\Logan\Documents\GitHub\5e_Companion\src\data\monster_characteristics.csv')
+        self.df_characteristics.to_csv(r'C:\Users\Logan\Documents\GitHub\5e_Companion\src\data\monster_characteristics.csv',index=False)
 
     def get_monster_actions(self):
         actions=[]
